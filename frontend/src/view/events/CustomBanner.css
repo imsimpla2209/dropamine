@@ -1,0 +1,31 @@
+.custom-banner {
+    background-color: #ffe58f;
+    border: 1px solid #ffc53d;
+    padding: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  .custom-banner-alert {
+    margin-bottom: 0;
+  }
+  
+  .custom-banner-content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    margin-left: 16px;
+  }
+  
+  .custom-banner-text {
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin-right: 16px;
+  }
+  
+  .custom-banner-button {
+    margin-left: 16px;
+  }
+  

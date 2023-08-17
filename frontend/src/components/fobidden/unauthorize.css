@@ -1,0 +1,54 @@
+body{
+  background-color: #1C2127;
+}
+.container{
+  position: absolute;
+  right: 30px;
+}
+.message{
+  font-family: 'Poppins', sans-serif;
+  font-size: 30px;
+  color: white;
+  font-weight: 500;
+  position: absolute;
+  top: 230px;
+  left: 40px;
+}
+.message2{
+  font-family: 'Poppins', sans-serif;
+  font-size: 18px;
+  color: white;
+  font-weight: 300;
+  width: 360px;
+  position: absolute;
+  top: 280px;
+  left: 40px;
+}
+
+.neon{
+  text-align: center;
+  width: 300px;
+  margin-top: 30px;
+  margin-bottom: 10px;
+  font-family: 'Varela Round', sans-serif;
+  font-size: 90px;
+  color: #5BE0B3;
+  letter-spacing: 3px;
+  text-shadow: 0 0 5px #6EECC1;
+  animation: flux 2s linear infinite;
+  
+}
+
+@keyframes flux {
+  0%,
+  100% {
+    text-shadow: 0 0 5px #00FFC6, 0 0 15px #00FFC6, 0 0 50px #00FFC6, 0 0 50px #00FFC6, 0 0 2px #B9FFE8, 2px 2px 3px #12E29C;
+    color: #4BFFEF;
+  }
+  50% {
+    text-shadow: 0 0 3px #00B58D, 0 0 7px #00B58D, 0 0 25px #00B58D, 0 0 25px #00B58D, 0 0 2px #00B58D, 2px 2px 3px #006A60;
+    color: #63D3AE;
+  }
+}
+
+  

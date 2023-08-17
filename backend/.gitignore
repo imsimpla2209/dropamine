@@ -1,0 +1,7 @@
+.env
+node_modules
+# ts node dump
+/report.*.json
+/tmp
+/package-lock.json
+dist

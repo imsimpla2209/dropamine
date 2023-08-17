@@ -1,0 +1,208 @@
+[{
+  "_id": {
+    "$oid": "63fd93dbb22017f2dd34ec54"
+  },
+  "name": "Lê Văn Yeah",
+  "role": "staff",
+  "isActivate": true,
+  "isBanned": false,
+  "password": "$2b$10$kdBHW46s/81AHOvudIXBLO9E3hutOzMaWV70jOl2AegGTGpxdXxIe",
+  "username": "vanyeah",
+  "birthday": {
+    "$date": {
+      "$numberLong": "796089600000"
+    }
+  },
+  "phone": "0696229669",
+  "comments": ["641871beb365b4e7146b8351"],
+  "ideas": ["64156607f72b947112e27a2a", "6415681ef72b947112e2b499", "6415698af72b947112e2cd7f"],
+  "email": "vanyeah@gmail.com",
+  "description": "Just a friendly Tay Bac man. I began in finance, started writing on the side, and took it full-time. Living the dream. If you’d like free writing advice, and a step-by-step to online blogging",
+  "department": "64154dbfdb9930b80f0389af",
+  "avatar": "https://th.bing.com/th/id/OIP.vFGMOpgp6RoyCGto4qKqJgHaHa?w=201&h=200&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+},
+{
+  "_id": {
+    "$oid": "63ff778b230c3805b4dc434b"
+  },
+  "name": "Nguyễn Văn Fly",
+  "role": "staff",
+  "isActivate": true,
+  "isBanned": false,
+  "password": "$2b$10$kdBHW46s/81AHOvudIXBLO9E3hutOzMaWV70jOl2AegGTGpxdXxIe",
+  "username": "flyawayyeah",
+  "birthday": {
+    "$date": {
+      "$numberLong": "1148515200000"
+    }
+  },
+  "phone": "0696229889",
+  "comments": [],
+  "ideas": [],
+  "email": "vanyeah@gmail.com",
+  "description": "Just a friendly Thanh Hoa man. I began in finance, started writing on the side, and took it full-time. Living the dream. If you’d like free writing advice, and a step-by-step to online blogging",
+
+  "avatar": "https://i.redd.it/06s2knfhat941.jpg"
+},
+{
+  "_id": {
+    "$oid": "63ff77a6afda4c4b35f50f80"
+  },
+  "name": "Nguyễn Thị Yeah",
+  "role": "staff",
+  "isActivate": true,
+  "isBanned": false,
+  "password": "$2b$10$kdBHW46s/81AHOvudIXBLO9E3hutOzMaWV70jOl2AegGTGpxdXxIe",
+  "username": "vaithat",
+  "birthday": {
+    "$date": {
+      "$numberLong": "896054400000"
+    }
+  },
+  "phone": "0694569669",
+  "comments": [],
+  "ideas": [],
+  "email": "vanyea123haaa@gmail.com",
+  "description": "learn something and teach something every day",
+
+  "avatar": "https://images.ladbible.com/resize?type=jpeg&url=http://20.theladbiblegroup.com/s3/content/1f1749975876b1a1df3e9670a0e7c733.jpg&quality=70&width=720&aspectratio=16:9&extend=white"
+},
+{
+  "_id": {
+    "$oid": "63fd94dbb23317f3ed34ec54"
+  },
+  "name": "Trần Thị Chơi Bời",
+  "role": "coordinator",
+  "isActivate": true,
+  "isBanned": false,
+  "password": "$2b$10$kdBHW46s/81AHOvudIXBLO9E3hutOzMaWV70jOl2AegGTGpxdXxIe",
+  "username": "yessiroke",
+  "birthday": {
+    "$date": {
+      "$numberLong": "796089600000"
+    }
+  },
+  "phone": "0696969669",
+  "comments": [],
+  "ideas": [],
+  "email": "vanyeahqqqaaa@gmail.com",
+  "description": "consistency is all I ask",
+
+  "avatar": "https://th.bing.com/th/id/R.545fd220325749300b115d548fb93e12?rik=COM9bNvxmnB7CQ&riu=http%3a%2f%2fpngimg.com%2fuploads%2fsimpsons%2fsimpsons_PNG8.png&ehk=OLvGYplT6jA2noHFD0UF7Yta9o3KPOoDycJx%2b7Q25wA%3d&risl=&pid=ImgRaw&r=0"
+},
+{
+  "_id": {
+    "$oid": "63ff77b489a6f6d3eb4447aa"
+  },
+  "name": "Lê Văn Sky",
+  "role": "manager",
+  "isActivate": true,
+  "isBanned": false,
+  "password": "$2b$10$kdBHW46s/81AHOvudIXBLO9E3hutOzMaWV70jOl2AegGTGpxdXxIe",
+  "username": "chacchanlatheroi",
+  "birthday": {
+    "$date": {
+      "$numberLong": "922320000000"
+    }
+  },
+  "phone": "0696549669",
+  "comments": [],
+  "ideas": [],
+  "email": "vanyeahaatta@gmail.com",
+  "description": "Once I correctly plugged in a USB on my first try.",
+
+  "avatar": "https://th.bing.com/th/id/R.c73772b07ee02b4964e925f58335395f?rik=mBaXG3cjBVfgiw&riu=http%3a%2f%2fwww.animationmagazine.net%2fwordpress%2fwp-content%2fuploads%2fmr-burns-the-simpsons-post.jpg&ehk=oExPibOkCcXbr3Uq6Sdds8NwI4EVTsJCw5YnuUiaADU%3d&risl=&pid=ImgRaw&r=0"
+},
+{
+  "_id": {
+    "$oid": "63ff77c6827c0f6dc73b7b15"
+  },
+  "name": "Hoàng Văn Triển",
+  "role": "manager",
+  "isActivate": true,
+  "isBanned": false,
+  "password": "$2b$10$kdBHW46s/81AHOvudIXBLO9E3hutOzMaWV70jOl2AegGTGpxdXxIe",
+  "username": "chacchancaidb",
+  "birthday": {
+    "$date": {
+      "$numberLong": "580521600000"
+    }
+  },
+  "phone": "0693249669",
+  "comments": [],
+  "ideas": [],
+  "email": "vanyessahaatta123@gmail.com",
+  "description": "No description",
+
+  "avatar": "https://th.bing.com/th/id/OIP.oaJ8jnVuV4aLBbaGFF-fvgHaNJ?w=115&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+},
+{
+  "_id": {
+    "$oid": "63ff77ce8c8afc38f35367d3"
+  },
+  "name": "Hoàng Văn Thiện",
+  "role": "coordinator",
+  "isActivate": true,
+  "isBanned": false,
+  "password": "$2b$10$kdBHW46s/81AHOvudIXBLO9E3hutOzMaWV70jOl2AegGTGpxdXxIe",
+  "username": "chacchancaidbrr",
+  "birthday": {
+    "$date": {
+      "$numberLong": "896054400000"
+    }
+  },
+  "phone": "0693249669",
+  "comments": [],
+  "ideas": [],
+  "email": "vanyessahaatta@gmail.com",
+  "description": "No description",
+
+  "avatar": "https://th.bing.com/th/id/R.2bd16444ca11396074986c5ab4db9c7a?rik=ja9ehhGMM6yUug&riu=http%3a%2f%2fwww.sitiosargentina.com.ar%2fimagenes-2008%2fhomero-simpson-3.gif&ehk=Fc7tPOW48WTeNAb%2faSv2RpPG0212vDn3F6Kw33aY%2f3A%3d&risl=&pid=ImgRaw&r=0"
+},
+{
+  "_id": {
+    "$oid": "63ff77d66891702252203edb"
+  },
+  "name": "Khánh Sky-walker",
+  "role": "staff",
+  "isActivate": true,
+  "isBanned": false,
+  "password": "$2b$10$kdBHW46s/81AHOvudIXBLO9E3hutOzMaWV70jOl2AegGTGpxdXxIe",
+  "username": "trunguykhanhsky",
+  "birthday": {
+    "$date": {
+      "$numberLong": "911692800000"
+    }
+  },
+  "phone": "0693249669",
+  "comments": [],
+  "ideas": [],
+  "email": "vanyessahaatta322@gmail.com",
+  "description": "No description",
+
+  "avatar": "https://th.bing.com/th/id/R.2bd16444ca11396074986c5ab4db9c7a?rik=ja9ehhGMM6yUug&riu=http%3a%2f%2fwww.sitiosargentina.com.ar%2fimagenes-2008%2fhomero-simpson-3.gif&ehk=Fc7tPOW48WTeNAb%2faSv2RpPG0212vDn3F6Kw33aY%2f3A%3d&risl=&pid=ImgRaw&r=0"
+},
+{
+  "_id": {
+    "$oid": "63ff77e1bf93692f72b80462"
+  },
+  "name": "Khá Văn Bảnh",
+  "role": "staff",
+  "isActivate": true,
+  "isBanned": false,
+  "password": "$2b$10$kdBHW46s/81AHOvudIXBLO9E3hutOzMaWV70jOl2AegGTGpxdXxIe",
+  "username": "khabanhsky",
+  "birthday": {
+    "$date": {
+      "$numberLong": "896054400000"
+    }
+  },
+  "phone": "0693245569",
+  "comments": [],
+  "ideas": [],
+  "email": "iacokhac@gmail.com",
+  "description": "Thomas Michael Shelby OBE DSM MM MP is a fictional character, and the protagonist of the British period crime drama Peaky Blinders. He is played by Irish actor Cillian Murphy, who has won an Irish Film & Television Award and National Television Award for his portrayal of Shelby. The character has received critical acclaim.",
+
+  "avatar": "https://i.pinimg.com/736x/03/84/3d/03843dbefaaad7e83c1b722df5bceb0a--les-simpson-pokemon-fan.jpg"
+}
+]

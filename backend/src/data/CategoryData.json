@@ -1,0 +1,111 @@
+[
+  {
+    "_id": {
+      "$oid": "64002bf4a02c00074bae3bcb"
+    },
+    "name": "Education",
+    "ideas": []
+  },
+  {
+    "_id": {
+      "$oid": "64002c070aec5a83f6892cf6"
+    },
+    "name": "Announcement",
+    "ideas": []
+  },{
+    "_id": {
+      "$oid": "64002c0f9bded01ea7e3946f"
+    },
+    "name": "News",
+    "ideas": []
+  },{
+    "_id": {
+      "$oid": "64002c1311351c504737fb42"
+    },
+    "name": "Marketing",
+    "ideas": []
+  },{
+    "_id": {
+      "$oid": "64002c19ab45411be6233ef3"
+    },
+    "name": "IT",
+    "ideas": []
+  },{
+    "_id": {
+      "$oid": "64002c1ffbae14a90621d6e8"
+    },
+    "name": "Business",
+    "ideas": []
+  },{
+    "_id": {
+      "$oid": "64002c246a7161fcf930532c"
+    },
+    "name": "Entertainment",
+    "ideas": []
+  },{
+    "_id": {
+      "$oid": "64002c29813bfb0b45b4af30"
+    },
+    "name": "Event",
+    "ideas": []
+  },{
+    "_id": {
+      "$oid": "64002c2e7aa62bbe83f2ae58"
+    },
+    "name": "QnA",
+    "ideas": []
+  },{
+    "_id": {
+      "$oid": "64002c32e1f78ef28bc815fe"
+    },
+    "name": "GraphicDesign",
+    "ideas": []
+  },{
+    "_id": {
+      "$oid": "64002c36e06e527a1d20f126"
+    },
+    "name": "Language",
+    "ideas": []
+  },
+  {
+    "_id": {
+      "$oid": "64002ce787e802f2da644ca5"
+    },
+    "name": "Enjoyment",
+    "ideas": []
+  },{
+    "_id": {
+      "$oid": "64002cecb70fadfacba7c5e6"
+    },
+    "name": "Story/Gossip",
+    "ideas": []
+  },{
+    "_id": {
+      "$oid": "64002cf25d96191bfacc95a0"
+    },
+    "name": "Money",
+    "ideas": []
+  },
+  {
+    "_id": {
+      "$oid": "64002d59f6a3e2710dab5dbd"
+    },
+    "name": "Investment",
+    "ideas": []
+  },
+  {
+    "_id": {
+      "$oid": "640052c715e5ce6b34829743"
+    },
+    "name": "Orientation",
+    "ideas": []
+  },
+  {
+    "_id": {
+      "$oid": "640052ff958601d4ccb3f95b"
+    },
+    "name": "Recruitment",
+    "ideas": []
+  }
+]
+
