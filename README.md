@@ -4,7 +4,7 @@ Welcome to the Dropamine repository! This project is a web application inspired 
 
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NextJs]([https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white](https://s3.amazonaws.com/media-p.slid.es/uploads/992231/images/5692811/nextjsimg.png))
+![NextJs](https://s3.amazonaws.com/media-p.slid.es/uploads/992231/images/5692811/nextjsimg.png)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 
